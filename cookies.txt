@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fnb.co.za	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	0wdyubqx0v3jbselkdebrmql
+www.fnb.co.za	TRUE	/	FALSE	1999999999	X-Mapping-pagknoff	F29A8FBE9EE26D1AF3561AD20B171852
+www.fnb.co.za	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:0|g:fe41767a-16ec-4202-afa3-fa04050f01d6|n:fnb_e4abf1d0-98d5-4ac4-971b-7b1592270422"
+www.fnb.co.za	TRUE	/	FALSE	1999999999	SameSite	None
+www.fnb.co.za	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:0|i:809186|e:33"
+.fnb.co.za	TRUE	/	FALSE	1999999999	persistWEB	8f289bbe-f5ea-482f-89c2-1a9efc1cd9d8
+www.fnb.co.za	TRUE	/	FALSE	1999999999	JSESSIONID	QRrtToM6GigHTtmr19Vkpv9C
+fnb.co.za	TRUE	/	FALSE	1999999999	t_enabled	true
+
